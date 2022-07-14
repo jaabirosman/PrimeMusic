@@ -1,5 +1,5 @@
 {
-    "name": "Prime Music",
+    "name": "Osmani Music",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
     "keywords": [
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Toni880/PrimeMusic",
+        "value": "https://github.com/ribfirst/PrimeMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
