@@ -4,7 +4,7 @@
 
 | Code | Language | Contributor |
 |-|-------|-------|
-| en | English | Thanks to [TeamYukki](https://t.me/Teamosmani)
-| 🇮🇩 | Indonesia  | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/Ribaj Advertising)
-| 🇮🇩 | Somalia  | Thanks to [ʀᴇxᴀ ᴇx](https://t.me/ribajosmani)
-| 🇮🇩 | Jawa | Thanks to [ᴛᴏɴɪ - ᴇx](https://t.me/Tonic880)
+| en | English | Thanks to [ᴛᴇᴀᴍ ᴏsᴍᴀɴᴊ](https://t.me/Teamosmani)
+| 🇮🇩 | Indonesia  | Thanks to [ʀɪʙᴀᴊ - ᴏғғɪᴄɪᴀʟ](https://t.me/RibajAdvertising)
+| 🇸🇴 | Somalia  | Thanks to [ɪʙᴀᴊ ᴇx](https://t.me/ribajosmani)
+| 🇮🇩 | Jawa | Thanks to [ʀɪʙᴀᴊ - ᴇx](https://t.me/ribajosmani)
