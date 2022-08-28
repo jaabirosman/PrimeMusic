@@ -78,8 +78,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("PrimeSupportChannel")
-                await self.one.join_chat("PrimeSupportGroup")
+                await self.one.join_chat("teamosmani")
+                await self.one.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(1)
@@ -108,8 +108,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("PrimeSupportChannel")
-                await self.two.join_chat("PrimeSupportGroup")
+                await self.two.join_chat("teamosmani")
+                await self.two.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(2)
@@ -138,7 +138,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("PrimeSupportChannel")
+                await self.three.join_chat("teamosmani")
                 await self.three.join_chat("PrimeSupportGroup")
             except:
                 pass
@@ -168,8 +168,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("PrimeSupportChannel")
-                await self.four.join_chat("PrimeSupportGroup")
+                await self.four.join_chat("teamosmani")
+                await self.four.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(4)
@@ -198,8 +198,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("PrimeSupportChannel")
-                await self.five.join_chat("PrimeSupportGroup")
+                await self.five.join_chat("teamosmani")
+                await self.five.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(5)
@@ -228,7 +228,7 @@ class Userbot(Client):
         if config.STRING6:
             await self.six.start()
             try:
-                await self.six.join_chat("PrimeSupportChannel")
+                await self.six.join_chat("teamosmani")
                 await self.six.join_chat("PrimeSupportGroup")
             except:
                 pass
@@ -258,7 +258,7 @@ class Userbot(Client):
         if config.STRING7:
             await self.seven.start()
             try:
-                await self.seven.join_chat("PrimeSupportChannel")
+                await self.seven.join_chat("teamosmani")
                 await self.seven.join_chat("PrimeSupportGroup")
             except:
                 pass
@@ -288,8 +288,8 @@ class Userbot(Client):
         if config.STRING8:
             await self.eight.start()
             try:
-                await self.eight.join_chat("PrimeSupportChannel")
-                await self.eight.join_chat("PrimeSupportGroup")
+                await self.eight.join_chat("teamosmani")
+                await self.eight.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(8)
@@ -318,8 +318,8 @@ class Userbot(Client):
         if config.STRING9:
             await self.nine.start()
             try:
-                await self.nine.join_chat("PrimeSupportChannel")
-                await self.nine.join_chat("PrimeSupportGroup")
+                await self.nine.join_chat("teamosmani")
+                await self.nine.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(9)
@@ -348,8 +348,8 @@ class Userbot(Client):
         if config.STRING10:
             await self.ten.start()
             try:
-                await self.ten.join_chat("PrimeSupportChannel")
-                await self.ten.join_chat("PrimeSupportGroup")
+                await self.ten.join_chat("teamosmani")
+                await self.ten.join_chat("osmanigroupbot")
             except:
                 pass
             assistants.append(9)
